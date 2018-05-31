@@ -1,6 +1,6 @@
 <?php
 
-$countries_spanish = $x = array( array('code' => 'MK','name' => 'ARY Macedonia',)
+$countries_spanish = array( array('code' => 'MK','name' => 'ARY Macedonia',)
 , array('code' => 'AF','name' => 'Afganistán',)
 , array('code' => 'AL','name' => 'Albania',)
 , array('code' => 'DE','name' => 'Alemania',)
